@@ -77,6 +77,5 @@
     				<input type="reset" value="重設">
     			</td>
     		</tr>
-    </body>
-</html>
+ 
 
