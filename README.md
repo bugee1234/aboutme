@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>About me</title>
-</head>
-<body>
+
 <table border="1">
 <tr>
 		<th colspan="3">About me--109306015</th>
